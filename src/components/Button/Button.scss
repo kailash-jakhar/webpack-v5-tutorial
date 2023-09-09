@@ -1,0 +1,8 @@
+$color: white;
+$borderRadius : 5px;
+.button {
+    padding: 10px;
+    background-color: green;
+    color: $color;
+    border-radius: $borderRadius;
+}
