@@ -1,4 +1,4 @@
-import UserIcon from './user.png';
+import UserIcon from '../../assets/images/user.png';
 import './Login.scss';
 class Login {
     render () {
